@@ -24,9 +24,9 @@ class index extends Component {
       <>
         <Header>
           <Navbar />
-          <SectionContent1 />
         </Header>
         <Main>
+          <SectionContent1 />
           <SectionContent2 />
           <SectionContent3 />
           <SectionAbout />
